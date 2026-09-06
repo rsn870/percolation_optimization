@@ -40,7 +40,4 @@ JSON results (real λ, R², null-test p-values, bootstrap CIs) to `./null_test_r
 
 
 
-## Link to the paper
-
-[arXiv:2609.02373](https://arxiv.org/abs/2609.02373), Percolation Dynamics in Optimization: Variance Cascades and Discrete Scale Invariance
 
