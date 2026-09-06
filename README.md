@@ -39,5 +39,10 @@ Figures save to the working directory. `exp3` and `exp5` additionally write per-
 JSON results (real λ, R², null-test p-values, bootstrap CIs) to `./null_test_results/`.
 
 
+## Link to the paper
+
+[arXiv:2609.02373](https://arxiv.org/abs/2609.02373), Percolation Dynamics in Optimization: Variance Cascades and Discrete Scale Invariance
+
+
 
 
